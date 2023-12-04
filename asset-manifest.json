@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-app-w13/static/css/main.e807a0e3.css",
-    "main.js": "/react-app-w13/static/js/main.0b08c9b3.js",
+    "main.css": "/react-app-w13/static/css/main.33307cd2.css",
+    "main.js": "/react-app-w13/static/js/main.08d896ed.js",
     "static/js/787.20621185.chunk.js": "/react-app-w13/static/js/787.20621185.chunk.js",
     "static/media/dwarfhamster.jpg": "/react-app-w13/static/media/dwarfhamster.8cdfaf467fe26418f0c1.jpg",
     "static/media/hamster.webp": "/react-app-w13/static/media/hamster.95709cecee17656f73e7.webp",
     "static/media/puddinghamster.webp": "/react-app-w13/static/media/puddinghamster.566476463121cb0b6949.webp",
     "index.html": "/react-app-w13/index.html",
-    "main.e807a0e3.css.map": "/react-app-w13/static/css/main.e807a0e3.css.map",
-    "main.0b08c9b3.js.map": "/react-app-w13/static/js/main.0b08c9b3.js.map",
+    "main.33307cd2.css.map": "/react-app-w13/static/css/main.33307cd2.css.map",
+    "main.08d896ed.js.map": "/react-app-w13/static/js/main.08d896ed.js.map",
     "787.20621185.chunk.js.map": "/react-app-w13/static/js/787.20621185.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e807a0e3.css",
-    "static/js/main.0b08c9b3.js"
+    "static/css/main.33307cd2.css",
+    "static/js/main.08d896ed.js"
   ]
 }
